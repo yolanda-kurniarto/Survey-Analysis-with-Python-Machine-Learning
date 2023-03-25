@@ -2,9 +2,7 @@
 Project Title: Analyzing Survey Data to Investigate Sydney Swans' Fans Love and its Impact on Club Business Performance
 
 Objective:
-The main objective of this machine learning project is to analyze survey data collected from Sydney Swans' fans and investigate fans behaviour related to their love for the team. Additionally, the project aims to determine the impact of fans' love on the club's business performance.
-
-The analysis seeks to answer three main questions:
+The main objective of this machine learning project is to analyze survey data collected from Sydney Swans' fans and investigate fans behaviour related to their love for the team. Additionally, the project aims to determine the impact of fans' love on the club's business performance. Based on the project objective, our team narrowed down the project scope to provide recommendations for the club. As such, the analysis seeks to answer three main questions:
 1. How does Sydney Swans on-field performance impact game attendance?
 2. What influences Sydney Swans' fans to become loyal supporters?
 3. How can sydney Swans improve their season pass renewal intention?
@@ -21,7 +19,7 @@ A subset of the survey data provided was used to investigate the key factors tha
   - Fans loyalty 
   - Season pass renew intention
   
-The data was analysed using various machine learning algorithms, including logit model, random forest, gradient boosting, and support vector machines (SVM). The analysis will determine the impact of fans' love on the club's business performance.
+The data was analysed using various machine learning algorithms, including logit model, random forest, gradient boosting, and support vector machines (SVM). The top performing model is used as the basis of analysis that will determine the impact of fans' love on the club's business performance.
 
 Results and Recommendation:
 1) Q1 - The gradient boost model, which outperforms the other three models, shows that on-field performmance impact match day attendance. The result shows that when the Sydney Swans team play calm and collected, as well as shows attention to their fans, would impact game day attendance. As such, it was recommended that the team interact and entertain with the crowd during games. 
