@@ -1,4 +1,4 @@
-# Sydney-Swans-Survey-Analysis
+# Survey-Analysis-with-Python-Machine-Learning
 Project Title: Analyzing Survey Data to Investigate Sydney Swans' Fans Love and its Impact on Club Business Performance
 
 Objective:
